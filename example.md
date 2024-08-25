@@ -40,7 +40,8 @@ This is the second line after a line break.
 
 ## Blockquotes
 
-> This is a blockquote.  
+> This is a blockquote.
+
 > It can span multiple lines.
 
 ---

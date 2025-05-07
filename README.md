@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Dipto Nath
-#### Wordpress Theme Plugin & Laravel Developer 
-I am Dipto Nath. Working as a Professional WordPress developer since 2017 and completed over 125+ web projects of 83 clients at various marketplaces.
+#### Professional WordPress and Shopify Developer!
+I am Dipto Nath. Working as WordPress & Shopify developer with over 6+ years of hands-on experience in designing and developing high-quality websites. Since 2017, I’ve successfully completed 400+ projects for 120+ clients across different countries.
 
-Skills: HTML / CSS / JS / PHP / WordPress / Laravel
+Skills: HTML / CSS / JS / PHP / WordPress / Shopify
 
 - 🔭 I’m currently working on Upwork & Fiverr 
 - 🌱 I’m currently learning Theme & Plugin Development 
